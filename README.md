@@ -1,7 +1,7 @@
 # cpp_mysql
 # Install Libraries
-$ conda install -c anaconda boost
-$ sudo apt-get install  libmysqlcppconn-dev
+*$ conda install -c anaconda boost
+*$ sudo apt-get install  libmysqlcppconn-dev
 
 # Compile
 g++ main.cpp -lmysqlcppconn -o out
